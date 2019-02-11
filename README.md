@@ -1,9 +1,9 @@
 # FreshDesk-Api
 
 Para ejecutar el Script "Fresh-api.php" correctamente usted debe cumplir los siguientes requisitos:
-1.	Api-key y Token Trello.
+1.	Api-key y Token Trello (https://trello.com/app-key/).
 
-2.	Api-key y contraseña FreshDesk.
+2.	Api-key y contraseña FreshDesk(https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key).
 
 3.	Apache (Recomendablemente Xampp https://www.apachefriends.org/es/download.html).
 
