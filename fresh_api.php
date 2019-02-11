@@ -571,7 +571,7 @@ function createLog($tipomsj,$id/*,$numerror,$tipoerror,*/)
 			break;
 
 
-		//***************************************************** TARJETA EN LISSTA ERRONEA ***************************************************
+		//***************************************************** TARJETA EN LISTA ERRONEA ***************************************************
 		
 		case 'error_lista':
 		fwrite($ar, "".date("Y-m-d H:i:s")."|F|ERROR, la tarjeta con la id : |".$id."| NO se encuentra en la lista 'Hecho'.".PHP_EOL);
